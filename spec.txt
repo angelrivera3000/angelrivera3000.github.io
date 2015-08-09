@@ -1,0 +1,36 @@
+Portfolio
+  a. HTML5 - CSS3
+  b. JavaScript
+  c. AngularJS
+  d. Ruby & RoR
+  e. Python & Django
+  f. NodeJS
+
+Technology Summary
+  1. System
+    a. Linux (Red Hat & Fedora)
+    b. OS X
+    c. Windows Server
+  2. Databases
+    a. MySQL
+    b. PostgreSQL
+  3. Methodologies
+    a. Project Management
+    b. ITIL
+    c. SCRUM
+    d. TOGAF
+    e. CMMI
+  4. Language Programming
+    a. C/C++
+    b. Java
+    c. PHP
+    d. JavaScript
+    e. Programming Android
+    f. Programming iOS
+  5. Security
+  6. Cloud Service
+    a. AWS
+    b. Heroku
+    c. Openshift
+    d. OpenStack
+    e. Google Cloud
