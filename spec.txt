@@ -8,7 +8,7 @@ Portfolio
 
 Technology Summary
   1. Operating System
-    a. Linux (Red Hat, Fedora, CentOS, Debian, Ubuntu)
+    a. Linux DevOps(Red Hat, Fedora, CentOS, Debian, Ubuntu)
     b. OS X
     c. Windows Server
   2. Databases
